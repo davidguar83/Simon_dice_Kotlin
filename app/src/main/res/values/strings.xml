@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Simon_Dice</string>
+    <string name="tirar">empezar</string>
+    <string name="empezar">empezar</string>
+</resources>
