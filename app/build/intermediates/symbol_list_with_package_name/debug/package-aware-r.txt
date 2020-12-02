@@ -810,6 +810,7 @@ drawable rgb
 drawable rojo
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
+drawable verde
 id ALT
 id CTRL
 id FUNCTION
@@ -891,7 +892,12 @@ id beginning
 id blocking
 id bottom
 id bounce
+id button3
 id buttonPanel
+id buttonamarillo
+id buttonazul
+id buttonrojo
+id buttonverde
 id cache_measures
 id center
 id center_vertical
@@ -948,7 +954,7 @@ id ifRoom
 id ignore
 id ignoreRequest
 id image
-id imagen_dado
+id imagen_rgb
 id info
 id invisible
 id italic
@@ -963,6 +969,7 @@ id listMode
 id list_item
 id message
 id mi_boton
+id mi_boton2
 id middle
 id motion_base
 id multiply
@@ -1116,6 +1123,7 @@ layout select_dialog_singlechoice_material
 layout support_simple_spinner_dropdown_item
 mipmap ic_launcher
 mipmap ic_launcher_round
+string Resultado
 string abc_action_bar_home_description
 string abc_action_bar_up_description
 string abc_action_menu_overflow_description
@@ -1143,11 +1151,19 @@ string abc_searchview_description_voice
 string abc_shareactionprovider_share_with
 string abc_shareactionprovider_share_with_application
 string abc_toolbar_collapse_description
+string amarillo
 string app_name
+string azul
+string comprobar_ronda
 string empezar
+string mensajeToast1
+string mensajeToast2
+string mensajeToast3
+string rojo
 string search_menu_title
 string status_bar_notification_info_overflow
 string tirar
+string verde
 style AlertDialog_AppCompat
 style AlertDialog_AppCompat_Light
 style Animation_AppCompat_Dialog

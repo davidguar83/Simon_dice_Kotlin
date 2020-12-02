@@ -1,78 +1,82 @@
 [
     {
-        "merged": "F:\\Users\\david\\AndroidStudioProjects\\Simon_Dice\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
-        "source": "F:\\Users\\david\\AndroidStudioProjects\\Simon_Dice\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+        "merged": "F:\\Users\\david\\AndroidStudioProjects\\Simon_Dice_primera_prueva\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "F:\\Users\\david\\AndroidStudioProjects\\Simon_Dice_primera_prueva\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "F:\\Users\\david\\AndroidStudioProjects\\Simon_Dice\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "F:\\Users\\david\\AndroidStudioProjects\\Simon_Dice\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+        "merged": "F:\\Users\\david\\AndroidStudioProjects\\Simon_Dice_primera_prueva\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "F:\\Users\\david\\AndroidStudioProjects\\Simon_Dice_primera_prueva\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "F:\\Users\\david\\AndroidStudioProjects\\Simon_Dice\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "F:\\Users\\david\\AndroidStudioProjects\\Simon_Dice\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+        "merged": "F:\\Users\\david\\AndroidStudioProjects\\Simon_Dice_primera_prueva\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rgb.jpg.flat",
+        "source": "F:\\Users\\david\\AndroidStudioProjects\\Simon_Dice_primera_prueva\\app\\src\\main\\res\\drawable\\rgb.jpg"
     },
     {
-        "merged": "F:\\Users\\david\\AndroidStudioProjects\\Simon_Dice\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
-        "source": "F:\\Users\\david\\AndroidStudioProjects\\Simon_Dice\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+        "merged": "F:\\Users\\david\\AndroidStudioProjects\\Simon_Dice_primera_prueva\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "F:\\Users\\david\\AndroidStudioProjects\\Simon_Dice_primera_prueva\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
     },
     {
-        "merged": "F:\\Users\\david\\AndroidStudioProjects\\Simon_Dice\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "F:\\Users\\david\\AndroidStudioProjects\\Simon_Dice\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+        "merged": "F:\\Users\\david\\AndroidStudioProjects\\Simon_Dice_primera_prueva\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "F:\\Users\\david\\AndroidStudioProjects\\Simon_Dice_primera_prueva\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "F:\\Users\\david\\AndroidStudioProjects\\Simon_Dice\\app\\build\\intermediates\\res\\merged\\debug\\drawable_amarillo.png.flat",
-        "source": "F:\\Users\\david\\AndroidStudioProjects\\Simon_Dice\\app\\src\\main\\res\\drawable\\amarillo.png"
+        "merged": "F:\\Users\\david\\AndroidStudioProjects\\Simon_Dice_primera_prueva\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "F:\\Users\\david\\AndroidStudioProjects\\Simon_Dice_primera_prueva\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
-        "merged": "F:\\Users\\david\\AndroidStudioProjects\\Simon_Dice\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "F:\\Users\\david\\AndroidStudioProjects\\Simon_Dice\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+        "merged": "F:\\Users\\david\\AndroidStudioProjects\\Simon_Dice_primera_prueva\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "F:\\Users\\david\\AndroidStudioProjects\\Simon_Dice_primera_prueva\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "F:\\Users\\david\\AndroidStudioProjects\\Simon_Dice\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "F:\\Users\\david\\AndroidStudioProjects\\Simon_Dice\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "F:\\Users\\david\\AndroidStudioProjects\\Simon_Dice_primera_prueva\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_verde.png.flat",
+        "source": "F:\\Users\\david\\AndroidStudioProjects\\Simon_Dice_primera_prueva\\app\\src\\main\\res\\drawable-v24\\verde.png"
     },
     {
-        "merged": "F:\\Users\\david\\AndroidStudioProjects\\Simon_Dice\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rgb.jpg.flat",
-        "source": "F:\\Users\\david\\AndroidStudioProjects\\Simon_Dice\\app\\src\\main\\res\\drawable\\rgb.jpg"
+        "merged": "F:\\Users\\david\\AndroidStudioProjects\\Simon_Dice_primera_prueva\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "F:\\Users\\david\\AndroidStudioProjects\\Simon_Dice_primera_prueva\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "F:\\Users\\david\\AndroidStudioProjects\\Simon_Dice\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "F:\\Users\\david\\AndroidStudioProjects\\Simon_Dice\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+        "merged": "F:\\Users\\david\\AndroidStudioProjects\\Simon_Dice_primera_prueva\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "F:\\Users\\david\\AndroidStudioProjects\\Simon_Dice_primera_prueva\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "F:\\Users\\david\\AndroidStudioProjects\\Simon_Dice\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rojo.png.flat",
-        "source": "F:\\Users\\david\\AndroidStudioProjects\\Simon_Dice\\app\\src\\main\\res\\drawable\\rojo.png"
+        "merged": "F:\\Users\\david\\AndroidStudioProjects\\Simon_Dice_primera_prueva\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "F:\\Users\\david\\AndroidStudioProjects\\Simon_Dice_primera_prueva\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "F:\\Users\\david\\AndroidStudioProjects\\Simon_Dice\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
-        "source": "F:\\Users\\david\\AndroidStudioProjects\\Simon_Dice\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+        "merged": "F:\\Users\\david\\AndroidStudioProjects\\Simon_Dice_primera_prueva\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rojo.png.flat",
+        "source": "F:\\Users\\david\\AndroidStudioProjects\\Simon_Dice_primera_prueva\\app\\src\\main\\res\\drawable\\rojo.png"
     },
     {
-        "merged": "F:\\Users\\david\\AndroidStudioProjects\\Simon_Dice\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "F:\\Users\\david\\AndroidStudioProjects\\Simon_Dice\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+        "merged": "F:\\Users\\david\\AndroidStudioProjects\\Simon_Dice_primera_prueva\\app\\build\\intermediates\\res\\merged\\debug\\drawable_amarillo.png.flat",
+        "source": "F:\\Users\\david\\AndroidStudioProjects\\Simon_Dice_primera_prueva\\app\\src\\main\\res\\drawable\\amarillo.png"
     },
     {
-        "merged": "F:\\Users\\david\\AndroidStudioProjects\\Simon_Dice\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
-        "source": "F:\\Users\\david\\AndroidStudioProjects\\Simon_Dice\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+        "merged": "F:\\Users\\david\\AndroidStudioProjects\\Simon_Dice_primera_prueva\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "F:\\Users\\david\\AndroidStudioProjects\\Simon_Dice_primera_prueva\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "F:\\Users\\david\\AndroidStudioProjects\\Simon_Dice\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "F:\\Users\\david\\AndroidStudioProjects\\Simon_Dice\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+        "merged": "F:\\Users\\david\\AndroidStudioProjects\\Simon_Dice_primera_prueva\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "F:\\Users\\david\\AndroidStudioProjects\\Simon_Dice_primera_prueva\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     },
     {
-        "merged": "F:\\Users\\david\\AndroidStudioProjects\\Simon_Dice\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
-        "source": "F:\\Users\\david\\AndroidStudioProjects\\Simon_Dice\\app\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "F:\\Users\\david\\AndroidStudioProjects\\Simon_Dice_primera_prueva\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "F:\\Users\\david\\AndroidStudioProjects\\Simon_Dice_primera_prueva\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     },
     {
-        "merged": "F:\\Users\\david\\AndroidStudioProjects\\Simon_Dice\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "F:\\Users\\david\\AndroidStudioProjects\\Simon_Dice\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+        "merged": "F:\\Users\\david\\AndroidStudioProjects\\Simon_Dice_primera_prueva\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "F:\\Users\\david\\AndroidStudioProjects\\Simon_Dice_primera_prueva\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "F:\\Users\\david\\AndroidStudioProjects\\Simon_Dice\\app\\build\\intermediates\\res\\merged\\debug\\drawable_azul.png.flat",
-        "source": "F:\\Users\\david\\AndroidStudioProjects\\Simon_Dice\\app\\src\\main\\res\\drawable\\azul.png"
+        "merged": "F:\\Users\\david\\AndroidStudioProjects\\Simon_Dice_primera_prueva\\app\\build\\intermediates\\res\\merged\\debug\\drawable_azul.png.flat",
+        "source": "F:\\Users\\david\\AndroidStudioProjects\\Simon_Dice_primera_prueva\\app\\src\\main\\res\\drawable\\azul.png"
     },
     {
-        "merged": "F:\\Users\\david\\AndroidStudioProjects\\Simon_Dice\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
-        "source": "F:\\Users\\david\\AndroidStudioProjects\\Simon_Dice\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+        "merged": "F:\\Users\\david\\AndroidStudioProjects\\Simon_Dice_primera_prueva\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "F:\\Users\\david\\AndroidStudioProjects\\Simon_Dice_primera_prueva\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "F:\\Users\\david\\AndroidStudioProjects\\Simon_Dice_primera_prueva\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "F:\\Users\\david\\AndroidStudioProjects\\Simon_Dice_primera_prueva\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
     }
 ]

@@ -2,4 +2,13 @@
     <string name="app_name">Simon_Dice</string>
     <string name="tirar">empezar</string>
     <string name="empezar">empezar</string>
+    <string name="Resultado">Reiniciar</string>
+    <string name="rojo">Rojo</string>
+    <string name="amarillo">Amarillo</string>
+    <string name="verde">Verde</string>
+    <string name="azul">Azul</string>
+    <string name="mensajeToast1">Turno Jugador</string>
+    <string name="mensajeToast2">Acertastes, Siguiente ronda </string>
+    <string name="mensajeToast3">Fallaste, comienza para vuelver a intentarlo</string>
+    <string name="comprobar_ronda">Comprobar Ronda</string>
 </resources>
