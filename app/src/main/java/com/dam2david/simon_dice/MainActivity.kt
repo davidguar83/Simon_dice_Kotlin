@@ -100,12 +100,14 @@ class MainActivity : AppCompatActivity() {
         val text3 = getString(R.string.mensajeToast3)
         val toast3= Toast.makeText(applicationContext,text3,declaracion)
 
-        if (listaordenador==listajugador) {
+        if (listaordenador.value==listajugador.value) {
 
             toast2.show()
 
             rondas++;
-
+            //limpiarListas()
+            listajugador.value?.clear()
+            rondaOrdenador()
 
         } else {
 
@@ -133,31 +135,32 @@ class MainActivity : AppCompatActivity() {
     private fun rondaOrdenador() {
 
 
-    //while (rondas!=rondas) {
-    val randomInt = Random.nextInt(4) + 1
 
-    listaordenador.value?.add(randomInt)
-    listaordenador.postValue(listaordenador.value)
+        for (i in 1..rondas)  {
+            val randomInt = Random.nextInt(4) + 1
+
+            listaordenador.value?.add(randomInt)
+            listaordenador.postValue(listaordenador.value)
 
 
-    val drawableResource = when (randomInt) {
-        1 -> R.drawable.amarillo
-        2 -> R.drawable.azul
-        3 -> R.drawable.rojo
-        else -> R.drawable.verde
+            val drawableResource = when (randomInt) {
+                1 -> R.drawable.amarillo
+                2 -> R.drawable.azul
+                3 -> R.drawable.rojo
+                else -> R.drawable.verde
+            }
+
+            diceImage.setImageResource(drawableResource)
+
+        }
+
     }
 
-    diceImage.setImageResource(drawableResource)
-
-//}
 
 
 
 
 
-
-
-            }
         }
 
 
